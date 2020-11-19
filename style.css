@@ -1,0 +1,10 @@
+h3 {
+    font-size: 30px !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+canvas {
+    border: solid 2px black;
+    box-shadow: 5px 5px 30px orange;
+    background-color: rgba(0, 0, 0, 0.555);
+}
